@@ -1,2 +1,2 @@
 # Assignment1_1
-this File contains screen shot of running imported Acadgild VM in my local system. 
+this File contains solution of Assignment 1.1 and Assignment 1.2
